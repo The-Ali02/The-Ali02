@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Software development projects.**
 
-- 💬 Ask me about **JavaScript, MERN Stack, Spring Boot, PostgreSQL, Machine Learning.**
+- 💬 Ask me about **Data Engineering, MERN Stack, Spring Boot, PostgreSQL, Machine Learning.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rehan-b65b59216/**
+- 📫 How to reach me **https://www.linkedin.com/in/rehanalif/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nvyXD0WQPvplEsgpmYDAvsGd28r3Xnn9/edit](https://docs.google.com/document/d/1nvyXD0WQPvplEsgpmYDAvsGd28r3Xnn9/edit)
+- 📄 Know about my experiences [📄](https://drive.google.com/file/d/1-YUTCyMqZ5YUpsIO8KUXiRvd_3L1V2WH/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
