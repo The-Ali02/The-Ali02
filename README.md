@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Engineering, MERN Stack, Spring Boot, PostgreSQL, Machine Learning.**
 
-- 📫 How to reach me **[LinkedIn]**(https://www.linkedin.com/in/rehanalif/)
+- 📫 You can reach out to me via **[LinkedIn](https://www.linkedin.com/in/rehanalif/)**
 
 - 📄 Know about my experiences [📄](https://drive.google.com/file/d/1-YUTCyMqZ5YUpsIO8KUXiRvd_3L1V2WH/view?usp=sharing)
 
