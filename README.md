@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <!-- <img align = "right" alt="Coding" width = "400" src="https://th.bing.com/th/id/OIP.MOO4sEPutqhA46M1ucIxGQAAAA?pid=ImgDet&w=416&h=340&rs=1"> -->
 
-- 🔭 I’m currently working on **Extracting meaningful insights from Data**
+- 🔭 I’m currently working on **Data Insights**
 
 - 🌱 I’m currently learning **Data Engineering**
 
