@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <!-- <img align = "right" alt="Coding" width = "400" src="https://th.bing.com/th/id/OIP.MOO4sEPutqhA46M1ucIxGQAAAA?pid=ImgDet&w=416&h=340&rs=1"> -->
 
-- 🔭 I’m currently working as **Software Developer**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I have industry experiencec working with **Spring Boot, JUnit, SQL, Python, JAVA, ETL automation workflows.**
+- 🌱 I have industry experience working on **Spring Boot Applications, JUnit testing, SQL stored procedures, Python, JAVA programming, ETL automation workflows.**
 
 - 👯 I’m looking to collaborate on **any interesting projects**
 
