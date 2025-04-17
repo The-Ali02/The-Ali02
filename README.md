@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <!-- <img align = "right" alt="Coding" width = "400" src="https://th.bing.com/th/id/OIP.MOO4sEPutqhA46M1ucIxGQAAAA?pid=ImgDet&w=416&h=340&rs=1"> -->
 
-- 🔭 I’m currently working on **Data Insights**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I have industry experiencec working with **Spring Boot, JUnit, SQL, Python, JAVA, ETL automation workflows.**
 
 - 👯 I’m looking to collaborate on **any interesting projects**
 
